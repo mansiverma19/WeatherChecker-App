@@ -1,4 +1,0 @@
-078639f94c343e08b041460b030aaea4
-
-Superuser: mansi pwd: mansimanuji123
-database: WeatherC host:WC pwd: Counterdj
